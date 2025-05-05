@@ -13,15 +13,15 @@ Gelen soruyu anlamak için `SentenceTransformer` modeli kullanılır ve daha ön
   
 ## Kullanım
 
-- 1) main.py (veya dosyanın adı neyse) dosyasını çalıştırın:
+-  main.py (veya dosyanın adı neyse) dosyasını çalıştırın:
 
  python main.py
 
-- 2) Komut satırına bir soru yazın. Örneğin:
+-  Komut satırına bir soru yazın. Örneğin:
 
  Yeni soruyu girin: Denetimli öğrenme nasıl çalışır?
 
-- 3) Sistem, en benzer soruyu bulup cevabını verir. Eğer yeterli benzerlik varsa bu yeni soruyu varyasyon olarak veri setine ekler.
+-  Sistem, en benzer soruyu bulup cevabını verir. Eğer yeterli benzerlik varsa bu yeni soruyu varyasyon olarak veri setine ekler.
 
 ## Notlar
 - İlk çalıştırmada sistem örnek veri setini yükler. Daha sonra oluşturulan guncel_veri_seti.pkl dosyası sayesinde sistem öğrendiği soruları unutmaz.
