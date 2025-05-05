@@ -15,7 +15,7 @@ Gelen soruyu anlamak için `SentenceTransformer` modeli kullanılır ve daha ön
 
 -  main.py (veya dosyanın adı neyse) dosyasını çalıştırın:
 
- python main.py
+ python week1.py
 
 -  Komut satırına bir soru yazın. Örneğin:
 
